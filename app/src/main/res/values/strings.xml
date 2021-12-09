@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_text">тортик</string>
+    <string name="cake_image_description">cake</string>
+    <string name="second_fragment_text">а тут без тортика</string>
+</resources>
